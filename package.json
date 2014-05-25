@@ -1,0 +1,39 @@
+{
+  "name": "node-releaser",
+  "version": "0.0.0",
+  "description": "Promise-based pluggable releases",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/thejameskyle/node-releaser.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thejameskyle/node-releaser/issues"
+  },
+  "homepage": "https://github.com/thejameskyle/node-releaser",
+  "dependencies": {
+    "sinon-chai": "^2.5.0",
+    "editor": "^0.1.0",
+    "commander": "^2.2.0",
+    "rimraf": "^2.2.8",
+    "underscore": "^1.6.0",
+    "semver": "^2.3.0",
+    "shelljs": "^0.3.0",
+    "proxyquire": "^0.6.0",
+    "bluebird": "^1.2.4",
+    "chai": "^1.9.1",
+    "sinon": "^1.9.1",
+    "grunt": "^0.4.4",
+    "inquirer": "^0.4.1",
+    "grunt-mocha-test": "^0.10.2",
+    "gitty": "^2.1.0"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "^0.10.0"
+  }
+}

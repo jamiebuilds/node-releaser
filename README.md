@@ -1,4 +1,4 @@
-node-release
-============
+node-releaser
+=============
 
 Promise-based pluggable releases
